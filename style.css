@@ -1,0 +1,35 @@
+body {
+    user-select: none;
+}
+
+h1,h2 {
+    font-family: Handlee, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-family: Handlee, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white !important;
+    font-size: 5em;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.heroPart {
+    width: 100%;
+    height: auto;
+    color: white;
+    text-align: center;
+    background-image: url("https://newevolutiondesigns.com/images/freebies/cool-wallpaper-3.jpg"), linear-gradient(233deg, #ff44b7, #7b56ff, #90bff9, #8dff67);
+    background-size: cover;
+    background-blend-mode: hard-light;
+    overflow: hidden;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-image: url("https://newevolutiondesigns.com/images/freebies/cool-wallpaper-3.jpg"), linear-gradient(233deg, #ff44b7, #7b56ff, #90bff9, #8dff67);
+    color: white;
+    padding: 40px 0 20px 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
